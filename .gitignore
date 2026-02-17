@@ -1,1 +1,4 @@
 /node_modules
+
+# The location where Jest stores its cache files.
+/temp_jest
